@@ -1,5 +1,8 @@
 # SpreadSheet_to_OBSv1
 
+Send Spreadsheet data to OBS text source
+Currently only work on the first column of the spreadsheet
+
 ### Requirement :
 - Windows 10
 - [OBS Studio](https://obsproject.com/)
@@ -34,8 +37,7 @@ obswebsocket_pw = password
 - Edit the name of your text source in OBS to work properly with the script, must be 1_TXT / 2_TXT etc... (don't edit text name in the script)
 - Click Start
 
-## Example : 
-![](https://youtu.be/92Wwn0MfFHc)
+[Example video](https://youtu.be/92Wwn0MfFHc)
 
 ## Follow me :
 - [@Prosperelucel](https://twitter.com/ProspereLucel)
