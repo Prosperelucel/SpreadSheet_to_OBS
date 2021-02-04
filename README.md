@@ -35,12 +35,11 @@ obswebsocket_pw = password
 - Click Start
 
 ## Example : 
-https://youtu.be/92Wwn0MfFHc
 ![](https://youtu.be/92Wwn0MfFHc)
 
 ## Follow me :
 - [@Prosperelucel](https://twitter.com/ProspereLucel)
 - [Prospere on Twitch](https://twitch.tv/prospere)
 - [My Discord](https://discord.gg/ac2xDrJ)
-- [Buy me a cofee](https://www.paypal.com/donate?hosted_button_id=UB9U2N2JKRA3A)
+- [Buy me a coffee](https://www.paypal.com/donate?hosted_button_id=UB9U2N2JKRA3A)
 
